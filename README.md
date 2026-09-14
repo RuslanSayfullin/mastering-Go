@@ -8,3 +8,5 @@ _разработка Sayfullin R.R.
 
 Перейдите в основную директорию с помощью команды:
     $ cd 
+
+# Исходники: https://github.com/mactsouk/mastering-Go-3rd
